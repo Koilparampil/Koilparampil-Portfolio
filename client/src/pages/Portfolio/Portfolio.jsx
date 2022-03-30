@@ -2,6 +2,7 @@ import "./portfolio.css"
 import React from 'react'
 import { Link } from 'react-router-dom';
 import Project from "../../components/Project/Project.jsx"
+import {projectlist} from "../../data.js"
 const Portfolio = () => {
   return (
     <div className="port">
@@ -14,12 +15,10 @@ const Portfolio = () => {
             </p>
         </div>
         <div className="port-list">
-            <Project/>
-            <Project/>
-            <Project/>
-            <Project/>
-            <Project/>
-            <Project/>
+            {
+              projectlist.map((item)=>(<Project key={item.id} img ={item.img} link={item.link} Pname={item.Pname} />))
+            }
+            
         </div>
     </div>
   )

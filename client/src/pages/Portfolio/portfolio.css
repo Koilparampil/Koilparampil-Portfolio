@@ -1,5 +1,5 @@
 .port{
-    padding: 50px 100px;
+    padding: 25px 50px;
     display:flex;
     flex-direction: column;
     align-items: center;
@@ -20,4 +20,5 @@
     flex-wrap: wrap;
     justify-content: space-between;
     width: 100%;
+    
 }

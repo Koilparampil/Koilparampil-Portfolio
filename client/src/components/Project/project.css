@@ -1,6 +1,6 @@
 .p{
-    width: 30%;
-    height: 40vh;
+    width: 300px;
+    height: auto;
     margin: 20px 10px;
     border: 2px solid #C9B9A6;
     border-radius: 10px 10px 0px 0px ;
@@ -20,4 +20,16 @@
     height: 6px;
     border-radius: 50%; 
     margin: 3px;
+}
+.p-Pname{
+    float: right;
+    flex:1;
+    text-align: right;
+    background-color: #C9B9A6;
+    color: #21211F ;
+}
+
+
+.p-img{
+    width: 100%;
 }
