@@ -1,5 +1,5 @@
 import "./home.css"
-import Me from "..//img//pfp.png"
+import Me from "..//..//img//pfp.png"
 const Home =() => {
     return(
         <div className="i">

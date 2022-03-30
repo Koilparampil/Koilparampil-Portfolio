@@ -25,7 +25,17 @@ const Header = () => {
         return (
     <>
      <header className="header mb-4 py-3 display-flex align-center header-section d-none d-xl-block">
-          ..add header code
+          <h1>
+              Chris Koilparampil
+          </h1>
+          <nav className='navbar'>
+              <ul>
+                  <li><Link to="/">Home</Link></li>
+                  <li><Link to="/portfolio">Portfolio</Link></li>
+                  <li><Link to="/ContactMe">Contact Me</Link></li>
+                  <li><Link to="/Resume">Resume</Link></li>
+              </ul>
+          </nav>
      </header>
     </>
   );   

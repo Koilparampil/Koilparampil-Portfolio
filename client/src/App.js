@@ -2,7 +2,8 @@ import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Header from './components/Header';
 import Footer from './components/Footer';
-import Home from './pages/Home';
+import Home from './pages/Home/Home.jsx';
+import About from './pages/About/About.jsx'
 function App() {
   return (
 <Router>
@@ -11,10 +12,10 @@ function App() {
           <div className="container">
             {/* Wrap Route elements in a Routes component */}
             <Routes>
-              {/* Define routes using the Route component to render different page components at different paths */}
-              {/* Define a default route that will render the Home component */}
-              <Route path="/" element={<Home />} />
-              {/* Define a route that will take in variable data */}
+              <Route path="/" element={<div><Home/><About/></div>} />
+              <Route path="/portfolio" element={<Portfolio/>}/>
+              <Route path="/ContactMe" element={<ContactForm/>}/>
+              <Route path="/Resume" element={<Resume/>}/>
             </Routes>
           </div>
           <Footer />
