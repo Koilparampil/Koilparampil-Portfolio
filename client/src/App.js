@@ -1,7 +1,8 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import './App.css';
-
+import Header from './components/Header';
+import Footer from './components/Footer';
+import Home from './pages/Home';
 function App() {
   return (
 <Router>
@@ -13,14 +14,12 @@ function App() {
               {/* Define routes using the Route component to render different page components at different paths */}
               {/* Define a default route that will render the Home component */}
               <Route path="/" element={<Home />} />
-              
-              <Route path="/profiles/:profileId" element={<Profile />} />
               {/* Define a route that will take in variable data */}
             </Routes>
           </div>
           <Footer />
         </div>
-      </Router>
+</Router>
   );
 }
 
