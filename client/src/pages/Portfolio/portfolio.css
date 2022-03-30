@@ -1,0 +1,23 @@
+.port{
+    padding: 50px 100px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.port-texts{
+    width: 65%;
+}
+.port-title{
+    font-style: 50px;
+    font-weight: 600;
+}
+.port-desc{
+    margin: 20px 0px;
+}
+.port-list{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+}

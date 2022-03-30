@@ -3,7 +3,10 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import Home from './pages/Home/Home.jsx';
-import About from './pages/About/About.jsx'
+import About from './pages/About/About.jsx';
+import Portfolio from './pages/Portfolio/Portfolio.jsx';
+import ContactForm from './pages/ContactForm/ContactForm.jsx';
+import Resume from './pages/Resume/Resume.jsx';
 function App() {
   return (
 <Router>

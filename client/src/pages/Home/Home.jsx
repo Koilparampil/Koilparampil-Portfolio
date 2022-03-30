@@ -1,5 +1,6 @@
 import "./home.css"
 import Me from "..//..//img//pfp.png"
+import React from 'react'
 const Home =() => {
     return(
         <div className="i">
