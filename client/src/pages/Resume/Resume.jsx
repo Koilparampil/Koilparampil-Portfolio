@@ -5,7 +5,7 @@ const Resume = () => {
   const theme = useContext(ThemeContext)
   const darkMode = theme.state.darkMode
   const handleClick = () => {
-    window.open("https://drive.google.com/file/d/1yP0pj-FBdgw56_KL0wFCYYaaxFOezs0R/view?usp=sharing", "_blank")
+    window.open("https://drive.google.com/file/d/1Rn4_41Sp1fLjCivdVSkVu9yFSuR1APf0/view?usp=sharing", "_blank")
   }
   return (
     <div className="r" style={ {backgroundColor: darkMode ? "#21211F": "#ECE6DF", color: darkMode && "#C9B9A6" }}>
