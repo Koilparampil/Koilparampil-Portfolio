@@ -75,3 +75,12 @@ button{
     font-weight: 500;
     cursor: pointer;
 }
+
+@media screen and  (max-width: 480px){
+    .c-wrapper{
+        flex-direction:column;
+    }
+    .c{
+        height: 110vh;
+    }
+}

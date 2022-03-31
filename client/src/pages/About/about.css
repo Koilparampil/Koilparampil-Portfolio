@@ -135,3 +135,25 @@
     font-weight: 300;
 }
 
+@media screen and (max-width: 480px) {
+    .a{
+        flex-direction: column;
+        text-align: center;
+        margin-top: 50px;
+    }
+    .a-left{
+        width: 100%;
+    }
+
+    .a-card{
+        height: 30vh;
+    }
+
+    .a-card.bg, .a-college-imgMC, .a-college-imgC{
+        display: none;
+    }
+
+    .a-right{
+        padding:20px
+    }
+}
