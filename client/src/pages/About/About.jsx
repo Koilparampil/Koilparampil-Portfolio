@@ -12,7 +12,7 @@ import { ThemeContext } from '..//../context.js';
   return (
     <div className="a" style={ {backgroundColor: darkMode ? "#21211F": "#ECE6DF", color: darkMode && "#C9B9A6" }}>
       <div className="a-left" style={ {backgroundColor: darkMode ? "#21211F": "#ECE6DF", color: darkMode && "#C9B9A6" }}>
-        <div className="a-card bg" ></div>
+        <div className="a-card bg" style={ {backgroundColor: darkMode ? "#D66A90": "#154983"}}></div>
         <div className="a-card" style={ {backgroundColor: darkMode ? "#21211F": "#ECE6DF", color: darkMode && "#C9B9A6" }}>
           <img src={Me} alt="" className='a-img'/>
         </div>
