@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Koilparampil-Portfolio/static/css/main.80e57df4.css",
-    "main.js": "/Koilparampil-Portfolio/static/js/main.06b602aa.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/Koilparampil-Portfolio/static/js/787.c4e7f8f9.chunk.js",
+    "main.js": "/Koilparampil-Portfolio/static/js/main.a9beb6a5.js",
+    "static/js/787.eeb5206d.chunk.js": "/Koilparampil-Portfolio/static/js/787.eeb5206d.chunk.js",
     "static/media/cryptoCardsDemo.png": "/Koilparampil-Portfolio/static/media/cryptoCardsDemo.82d5123251673aa61139.png",
     "static/media/inASuit.jpg": "/Koilparampil-Portfolio/static/media/inASuit.5f443b6098eb677bb4be.jpg",
     "static/media/foodHeroes.png": "/Koilparampil-Portfolio/static/media/foodHeroes.3b1d8c66f6631ba01441.png",
@@ -17,11 +17,11 @@
     "static/media/moon.png": "/Koilparampil-Portfolio/static/media/moon.3bea3d398a25611d421b.png",
     "index.html": "/Koilparampil-Portfolio/index.html",
     "main.80e57df4.css.map": "/Koilparampil-Portfolio/static/css/main.80e57df4.css.map",
-    "main.06b602aa.js.map": "/Koilparampil-Portfolio/static/js/main.06b602aa.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/Koilparampil-Portfolio/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.a9beb6a5.js.map": "/Koilparampil-Portfolio/static/js/main.a9beb6a5.js.map",
+    "787.eeb5206d.chunk.js.map": "/Koilparampil-Portfolio/static/js/787.eeb5206d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.80e57df4.css",
-    "static/js/main.06b602aa.js"
+    "static/js/main.a9beb6a5.js"
   ]
 }
