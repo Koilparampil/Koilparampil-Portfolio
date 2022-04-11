@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Koilparampil-Portfolio/static/css/main.80e57df4.css",
-    "main.js": "/Koilparampil-Portfolio/static/js/main.a9beb6a5.js",
+    "main.js": "/Koilparampil-Portfolio/static/js/main.1d5f94a4.js",
     "static/js/787.eeb5206d.chunk.js": "/Koilparampil-Portfolio/static/js/787.eeb5206d.chunk.js",
     "static/media/cryptoCardsDemo.png": "/Koilparampil-Portfolio/static/media/cryptoCardsDemo.82d5123251673aa61139.png",
     "static/media/inASuit.jpg": "/Koilparampil-Portfolio/static/media/inASuit.5f443b6098eb677bb4be.jpg",
@@ -17,11 +17,11 @@
     "static/media/moon.png": "/Koilparampil-Portfolio/static/media/moon.3bea3d398a25611d421b.png",
     "index.html": "/Koilparampil-Portfolio/index.html",
     "main.80e57df4.css.map": "/Koilparampil-Portfolio/static/css/main.80e57df4.css.map",
-    "main.a9beb6a5.js.map": "/Koilparampil-Portfolio/static/js/main.a9beb6a5.js.map",
+    "main.1d5f94a4.js.map": "/Koilparampil-Portfolio/static/js/main.1d5f94a4.js.map",
     "787.eeb5206d.chunk.js.map": "/Koilparampil-Portfolio/static/js/787.eeb5206d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.80e57df4.css",
-    "static/js/main.a9beb6a5.js"
+    "static/js/main.1d5f94a4.js"
   ]
 }
