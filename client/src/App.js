@@ -21,10 +21,10 @@ const darkMode = theme.state.darkMode
           <div className="container">
             {/* Wrap Route elements in a Routes component */}
             <Routes>
-              <Route path="/" element={<div><Home/><About/></div>} />
-              <Route path="/portfolio" element={<Portfolio/>}/>
-              <Route path="/ContactMe" element={<ContactForm/>}/>
-              <Route path="/Resume" element={<Resume/>}/>
+              <Route path="/Koilparampil-Portfolio/" element={<div><Home/><About/></div>} />
+              <Route path="/Koilparampil-Portfolio/portfolio" element={<Portfolio/>}/>
+              <Route path="/Koilparampil-Portfolio/ContactMe" element={<ContactForm/>}/>
+              <Route path="/Koilparampil-Portfolio/Resume" element={<Resume/>}/>
             </Routes>
           </div>
           <Footer />
