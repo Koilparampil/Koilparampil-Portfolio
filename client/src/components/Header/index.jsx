@@ -30,10 +30,10 @@ const Header = () => {
           </h1>
           <nav className='navbar'>
               <ul>
-                  <li><Link to="/">Home</Link></li>
-                  <li><Link to="/portfolio">Portfolio</Link></li>
-                  <li><Link to="/ContactMe">Contact Me</Link></li>
-                  <li><Link to="/Resume">Resume</Link></li>
+                  <li><Link to="/Koilparampil-Portfolio/">Home</Link></li>
+                  <li><Link to="/Koilparampil-Portfolio/portfolio">Portfolio</Link></li>
+                  <li><Link to="/Koilparampil-Portfolio/ContactMe">Contact Me</Link></li>
+                  <li><Link to="/Koilparampil-Portfolio/Resume">Resume</Link></li>
               </ul>
           </nav>
      </header>
