@@ -3,7 +3,7 @@ import foodH from "./img/foodHeroes.png"
 import weatherD from "./img/Weather.png"
 import workD from "./img/workDaySchedule.png"
 import noteT from "./img/noteTaker.png"
-
+import Honey  from "./img/Honey.png"
 export const projectlist = [
     {
         id: 1,
@@ -37,8 +37,8 @@ export const projectlist = [
       },
       {
         id: 6,
-        img: "",
-        link: "#",
-        Pname:"Project 3 (coming soon)"
+        img: Honey,
+        link: "https://honey-project.herokuapp.com/",
+        Pname:"Honey"
       },
 ];
