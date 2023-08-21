@@ -17,10 +17,12 @@ const Home =() => {
                             <div className="i-title-item" style={ {backgroundColor: darkMode ? "#21211F": "#ECE6DF", color: darkMode && "#C9B9A6" }}>Full-Stack Developer</div>
                             <div className="i-title-item" style={ {backgroundColor: darkMode ? "#21211F": "#ECE6DF", color: darkMode && "#C9B9A6" }}>Technical Consultant</div>
                             <div className="i-title-item" style={ {backgroundColor: darkMode ? "#21211F": "#ECE6DF", color: darkMode && "#C9B9A6" }}>Software Engineer</div>
+                            <div className="i-title-item" style={ {backgroundColor: darkMode ? "#21211F": "#ECE6DF", color: darkMode && "#C9B9A6" }}>Graduate Applicant</div>
                         </div>
                     </div>
                     <p className="i-desc" style={ {backgroundColor: darkMode ? "#21211F": "#ECE6DF", color: darkMode && "#C9B9A6" }}>
-                        I am coming out of a course from Southern Methodist University in conjunction with Cognizant and 2U. I specialize in the back-end, and love creating a more functional approach to problems I face.
+                        I am coming out of the Tandon Bridge Program, a course from New York University. I have a Bachelor's in Electrical Engineering and have successfullly
+                        taken subsequent courses in Web Development from esteemed institutions such as Southern Methodist University, and Columbia University.
                     </p>
                 </div>
             </div> 

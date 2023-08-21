@@ -125,6 +125,18 @@
     height: 120px;
     border-radius: 20px;
 }
+.a-college-imgNYU{
+
+    height: 120px;
+    border-radius: 20px;
+    background-color: white;
+}
+.a-college-imgSMU{
+
+    height: 90px;
+    border-radius: 20px;
+    background-color: white;
+}
 .a-title{
     font-weight: 400;
 }

@@ -21,7 +21,7 @@ export const projectlist = [
         id: 3,
         img: weatherD,
         link: "https://koilparampil.github.io/WeatherDash/",
-        Pname:"WeatherDaashBoard"
+        Pname:"WeatherDashBoard"
       },
       {
         id: 4,
